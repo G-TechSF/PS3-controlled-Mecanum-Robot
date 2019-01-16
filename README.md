@@ -2,7 +2,7 @@
 By G-TechSF 2019
 README
 
-This python3 script (messenger.py) and companion Arduino .INO sketch 
+This EXPERIMENTAL python3 script (messenger.py) and companion Arduino .INO sketch 
 allow the Nexus 4WD Mecanum robot to be controlled via PS3 controller.
 A raspberry pi connected to the robot via USB is used to run messenger.py
 Using sixpair, the PS3 controller is paired to the pi via bluetooth
